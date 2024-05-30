@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pvmfaktura", "pvmfaktura\pvmfaktura.csproj", "{1EE4D0F8-8731-494F-AE33-97E190FA7FDB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB710EB4-9CDC-4FED-987D-B3CE0701065A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE4D0F8-8731-494F-AE33-97E190FA7FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE4D0F8-8731-494F-AE33-97E190FA7FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE4D0F8-8731-494F-AE33-97E190FA7FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE4D0F8-8731-494F-AE33-97E190FA7FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E113A48-830C-4033-88F0-7221AD4FC848}
+	EndGlobalSection
+EndGlobal
